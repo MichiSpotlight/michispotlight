@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
 html,
 body {
   padding: 0;
@@ -12,5 +13,6 @@ a {
 }
 
 * {
+  font-family: 'Questrial', sans-serif;
   box-sizing: border-box;
 }
